@@ -1,0 +1,27 @@
+* {
+    margin:20px;
+    font-family: Helvetica, sans-serif;
+}
+
+.circle {
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+p {
+    color: orange;
+}
+
+/* .line {
+    border-bottom: 3px solid black;
+    width: 1000px;
+    height: 10px;
+    margin-top: 20px;
+    margin-left: 38px;
+} */
